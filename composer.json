@@ -1,0 +1,11 @@
+{
+    "name": "sergimauricurto/tutoring",
+    "description": "Modul Tutoria",
+    "authors": [
+        {
+            "name": "Sergi Mauri Curto",
+            "email": "sergimauri8@gmail.com"
+        }
+    ],
+    "require": {}
+}
